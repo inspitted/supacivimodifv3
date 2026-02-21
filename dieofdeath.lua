@@ -22,9 +22,9 @@ local function circle(pos, text)
     return b
 end
 
-local b2 = circle(UDim2.new(1, -10, 1, -100), "DASH")
-local b3 = circle(UDim2.new(1, -10, 1, -170), "SHORT\nDASH")
-local b1 = circle(UDim2.new(1, -10, 1, -240), "POW")
+local b2 = circle(UDim2.new(1, -10, 1, -130), "DASH")
+local b3 = circle(UDim2.new(1, -10, 1, -200), "SHORT\nDASH")
+local b1 = circle(UDim2.new(1, -10, 1, -270), "POW")
 
 
 local function twitch(btn)
