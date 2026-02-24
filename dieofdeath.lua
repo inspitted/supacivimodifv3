@@ -131,12 +131,12 @@ local function setupCharacter(char)
 	end)
 
 	b2.MouseButton1Click:Connect(function()
-		play(94027412516651)
+		play(15938993207)
 		dash(30)
 	end)
 
 	b3.MouseButton1Click:Connect(function()
-		play(124781750889573)
+		play(94027412516651)
 		superPunch()
 	end)
 end
